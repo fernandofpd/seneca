@@ -10,9 +10,6 @@ export const questions: QuestionsType = [
       }, {
         label: "Ribosomes",
         isCorrect: true
-      }, {
-        label: "Chloroplasm",
-        isCorrect: true
       }],
       [{
         label: "Cytoplasm",
