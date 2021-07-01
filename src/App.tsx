@@ -1,7 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css'
-import { Seneca } from "./features/seneca/Seneca";
+import {Seneca} from "./features/seneca/Seneca";
 
 function App() {
   return (
