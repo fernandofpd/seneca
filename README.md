@@ -8,3 +8,6 @@
 * Toggle order, option order and initial selection are randomize when changing questions.
 * Level of correctness is indicated by background color.
 * One question has been answered correctly the toggles become inactive.
+
+## Running the app
+Use the `start` task or directly `react-scripts start`;
